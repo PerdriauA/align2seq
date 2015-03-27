@@ -1,6 +1,6 @@
 header #title{
-text-align: center;
-font-size: 1.8em;
+	text-align: center;
+	font-size: 1.8em;
 }
 #global{
 	margin:10% 10%;
@@ -9,16 +9,16 @@ font-size: 1.8em;
 
  #global #step_to_step{
 	display: table-cell;
-		width: 60%
+	width: 60%
 
 
 }
 
  #global #formulaire{
-	 display: table-cell;
+	display: table-cell;
 	width: 20%;
 }
 #button{
-display: block;
-  margin: auto;
+	display: block;
+  	margin: auto;
 }
